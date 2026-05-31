@@ -1,10 +1,10 @@
-# EET317Lab#2
+# papers
 
-Path: `EET317Lab#2`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 

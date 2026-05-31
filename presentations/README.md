@@ -1,10 +1,10 @@
-# EET317Lab#2
+# presentations
 
-Path: `EET317Lab#2`
+Path: `presentations`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Presentation, slide, and poster materials separated for later deck/Overleaf-related reuse.
 
 ## Items
 

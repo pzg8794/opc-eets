@@ -2,6 +2,10 @@
 
 Path: `EET-222`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `Lab Experiment #4/` (folder)
@@ -19,10 +23,8 @@ Path: `EET-222`
 - `Experiment#2-waveform.jpg` (file)
 - `Experiment#2.jpg` (file)
 - `Lab #4, EET-222.cpp` (file)
-- `Lab Cover Shee1.docx` (file)
 - `output-circuit#5.txt` (file)
-- `~$b Report #4 and #3.docx` (file)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

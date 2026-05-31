@@ -1,15 +1,15 @@
 # Lab Experiment #4
 
-Path: `EET-222/Lab Experiment #4`
+Path: `reports/EET-222/Lab Experiment #4`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
 - `Lab 4/` (folder)
-- `Micro-Cap Evaluation 9.lnk- Output.jpg` (file)
+- `EET-222.cpp#4.docx` (file)
 
 ## Notes
 

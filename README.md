@@ -1,10 +1,16 @@
-# EETS
+# opc-eets
 
 Drive source: https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
 
-Purpose: Old Project Code item `EETS` from the pre-2024 Portafolio Drive archive. Use this repo to inspect source, docs, and project evidence; use Drive for bulky original artifacts.
+Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
 
-## Included Top-Level Items
+## Main Directories
+
+- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
+- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+
+## Top-Level Items
 
 - `EET - 223/` (folder)
 - `EET - Stuffs/` (folder)
@@ -17,6 +23,9 @@ Purpose: Old Project Code item `EETS` from the pre-2024 Portafolio Drive archive
 - `EET-311/` (folder)
 - `EET-440/` (folder)
 - `EET317Lab#2/` (folder)
+- `papers/` (folder)
+- `presentations/` (folder)
+- `reports/` (folder)
 - `.gitignore` (file)
 - `Book1 (Autosaved)2.xlsx` (file)
 - `Book1 (Autosaved)22.xlsx` (file)
@@ -25,10 +34,6 @@ Purpose: Old Project Code item `EETS` from the pre-2024 Portafolio Drive archive
 - `Book2.xlsx` (file)
 - `Drawing1.vsd` (file)
 - `DRIVE_OVERVIEW.md` (file)
-- `EET-311LabNo19.docx` (file)
-- `EET-311LabNo5.docx` (file)
-- `EET-331Lab#2 (Repaired).docx` (file)
-- `EET-331Lab#2.docx` (file)
 - `EET-331Lab#2.dwing.vsd` (file)
 - `How_to_run_Microsoft_CLR_Protocol.doc` (file)
 - `images.jpg` (file)
@@ -36,24 +41,16 @@ Purpose: Old Project Code item `EETS` from the pre-2024 Portafolio Drive archive
 - `img62.gif` (file)
 - `img63.gif` (file)
 - `IMPORT_NOTES.md` (file)
-- `Lab#1-311.docx` (file)
-- `Lab#3.docx` (file)
-- `Lab#5.docx` (file)
 - `lab3-311.vsd` (file)
-- `LabNo4 (Repaired).docx` (file)
-- `LabNo4.docx` (file)
-- `LabNo6.docx` (file)
 - `Take Home Exam.docx` (file)
 - `Untitled.jpg` (file)
 - `Untitled1.jpg` (file)
 - `Untitled2.jpg` (file)
 - `Waveform-lab15.jpg` (file)
 - `~$periment#1-EET317.docx` (file)
-- `~$T-331Lab#2.docx` (file)
-## Drive-Only Material
 
-Large binaries, installers, compressed archives, raw videos/audio, build outputs, and dependency caches are intentionally kept in Google Drive instead of GitHub. Use the Drive source link above if you need those original artifacts.
+## Organization Notes
 
-## Directory Coverage
-
-Every directory included in this repo has its own `README.md` index.
+- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
+- Each included directory has a `README.md` index.
+- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.

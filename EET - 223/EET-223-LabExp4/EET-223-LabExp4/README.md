@@ -2,6 +2,10 @@
 
 Path: `EET - 223/EET-223-LabExp4/EET-223-LabExp4`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `EET-223-LabExp4.cpp` (file)
@@ -9,4 +13,4 @@ Path: `EET - 223/EET-223-LabExp4/EET-223-LabExp4`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
