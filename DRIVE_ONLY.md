@@ -1,17 +1,19 @@
-# Drive-Only / Non-GitHub Material
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Drive-Only and Heavy Items
 
-Drive source: https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+GitHub contains the simple project files: code, papers, reports, presentations, notebooks, and lightweight assets. Heavy media, raw data, installers, archives, model files, and other large binaries stay referenced in Google Drive.
 
-These folders were present in Drive but did not contain GitHub-appropriate simple files after filtering. They are not kept as empty GitHub folders. Check Drive for videos, installers, archives, raw data, or other excluded/heavy artifacts.
+## Drive Sources
 
-- `EET - 223/EET-223-LabExp4/`
-- `EET - 223/EET-223-LabExp4/EET-223-LabExp4/`
-- `EET - 223/EET-223LabExp/`
-- `EET - 223/EET-223LabExp/EET-223LabExp/`
-- `EET-222/Lab Experiment #4/`
-- `EET-222/Lab Experiment #4/Lab 4/`
-- `EET-222/Lab Experiment#12/`
+- https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+
+## Placeholder Directories Removed From GitHub
+
+These were empty or README-only after importing GitHub-appropriate files. Check the Drive source above for heavy/data-only material.
+
 - `EET-311/`
 - `EET317Lab#2/`
-- `papers/`
-- `presentations/`
+
+## Import Status
+
+- `1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY`: completed

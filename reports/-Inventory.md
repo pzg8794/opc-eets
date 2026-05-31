@@ -1,0 +1,149 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `EET - 223/` - Directory containing related files for this portfolio item.
+- `EET - Stuffs/` - Directory containing related files for this portfolio item.
+- `EET-113/` - Directory containing related files for this portfolio item.
+- `EET-117/` - Directory containing related files for this portfolio item.
+- `EET-222/` - Directory containing related files for this portfolio item.
+- `EET-225/` - Directory containing related files for this portfolio item.
+- `EET-228/` - Directory containing related files for this portfolio item.
+- `EET-251/` - Directory containing related files for this portfolio item.
+- `EET-311/` - Directory containing related files for this portfolio item.
+- `EET-440/` - Directory containing related files for this portfolio item.
+- `EET317Lab#2/` - Directory containing related files for this portfolio item.
+- `14.txt` - File, 203 B.
+- `317-LabNo.5 (2).docx` - File, 96.6 KB.
+- `317-LabNo.5.docx` - File, 96.6 KB.
+- `317LAB#3 (2).docx` - File, 105.6 KB.
+- `317LAB#3.docx` - File, 72.5 KB.
+- `317LAB#31.docx` - File, 100.9 KB.
+- `5th lab report-225.docx` - File, 457.0 KB.
+- `6th lab report-225.docx` - File, 419.7 KB.
+- `Book1 (Autosaved)2.xlsx` - File, 13.3 KB.
+- `Book1 (Autosaved)22.xlsx` - File, 13.4 KB.
+- `Book1.xlsx` - File, 13.3 KB.
+- `Book12.xlsx` - File, 12.6 KB.
+- `Book2.xlsx` - File, 12.2 KB.
+- `C++ Program Output.docx` - File, 13.3 KB.
+- `ch7_HW.pdf` - File, 75.5 KB.
+- `CH_7_HW_SOLUTION.pdf` - File, 91.9 KB.
+- `CIN.docx` - File, 25.9 KB.
+- `DC Operating Characteristics De Solid State Diodes-EET117.docx` - File, 13.6 KB.
+- `DC-EET-222-5.docx` - File, 21.2 KB.
+- `Doc1.docx` - File, 1.2 MB.
+- `EET 105 lab 8 nd 9 (Repaired).docx` - File, 124.2 KB.
+- `EET 105 lab 8 nd 9 nd 10 (Repaired).docx` - File, 124.2 KB.
+- `EET 105 lab 8 nd 9.docx` - File, 114.9 KB.
+- `EET 105, Experiments #6 nd 7..docx` - File, 4.5 MB.
+- `EET-113 Theoretical Data.docx` - File, 45.0 KB.
+- `EET-113-5.docx` - File, 35.4 KB.
+- `EET-113-Lab-Report#2.docx` - File, 50.9 KB.
+- `EET-117-Lab-Report.docx` - File, 81.2 KB.
+- `EET-117.docx` - File, 42.6 KB.
+- `EET-222-5.docx` - File, 26.0 KB.
+- `EET-222.cpp#4.docx` - File, 15.9 KB.
+- `EET-223-LabExp4print.txt` - File, 2.7 KB.
+- `EET-225, Exp#8 (1).docx` - File, 12.9 KB.
+- `EET-225, Exp#8.docx` - File, 12.9 KB.
+- `EET-311LabNo19.docx` - File, 71.7 KB.
+- `EET-311LabNo5.docx` - File, 154.0 KB.
+- `EET-317lab#2 (2).docx` - File, 152.8 KB.
+- `EET-317lab#2.docx` - File, 153.2 KB.
+- `EET-317LabNo4 (2).docx` - File, 2.8 MB.
+- `EET-317LabNo4.docx` - File, 2.8 MB.
+- `EET-317LabNo5.xlsx` - File, 10.8 KB.
+- `EET-317LabNo6.docx` - File, 84.1 KB.
+- `EET-331Lab#2 (Repaired)--from-repo-EET-311.docx` - File, 261.2 KB.
+- `EET-331Lab#2 (Repaired).docx` - File, 265.1 KB.
+- `EET-331Lab#2.docx` - File, 116.4 KB.
+- `EET-331Lab#2.dwing.vsd` - File, 68.5 KB.
+- `EET-440 Networking Course Summary.docx` - File, 837.0 KB.
+- `EET.docx` - File, 13.1 KB.
+- `EET117.docx` - File, 60.5 KB.
+- `eet222ab2 (2).docx` - File, 20.7 KB.
+- `eet222ab2.docx` - File, 13.3 KB.
+- `eet223ab4--from-Lab-Experiment-4-Lab-4.docx` - File, 15.4 KB.
+- `eet223ab4.docx` - File, 16.0 KB.
+- `Electronics Laborator1.doc` - File, 1.1 MB.
+- `Exp#7-EET223 (2).docx` - File, 16.9 KB.
+- `Exp#7-EET223.docx` - File, 18.7 KB.
+- `exp12.docx` - File, 57.3 KB.
+- `Experiment # 6.docx` - File, 17.9 KB.
+- `Experiment#1-EET317 (Repaired) (2).docx` - File, 314.8 KB.
+- `Experiment#1-EET317 (Repaired).docx` - File, 314.8 KB.
+- `Experiment#1-EET317.docx` - File, 229.6 KB.
+- `Experiment#9-1rst Part.docx` - File, 48.0 KB.
+- `Experiment#9-2nd Part.docx` - File, 39.3 KB.
+- `Experiment%20# 6.docx` - File, 19.6 KB.
+- `Experiment%20# 7.docx` - File, 18.9 KB.
+- `Experiment8.docx` - File, 28.1 KB.
+- `Farmingdale  University of New York44 (2).docx` - File, 31.6 KB.
+- `Farmingdale  University of New York44.docx` - File, 35.2 KB.
+- `Formal-Lab-#3-eet-225.docx` - File, 26.7 KB.
+- `Formal-Lab-#8eet-225.docx` - File, 27.4 KB.
+- `fs.docx` - File, 167.7 KB.
+- `How_to_run_Microsoft_CLR_Protocol.doc` - File, 553.0 KB.
+- `Lab Cover Shee1.docx` - File, 18.3 KB.
+- `lab Report # 10.docx` - File, 79.6 KB.
+- `Lab Report # 11 EET 105.docx` - File, 30.7 KB.
+- `Lab Report #12.docx` - File, 21.2 KB.
+- `Lab Report #4.docx` - File, 36.8 KB.
+- `Lab Report #5.docx` - File, 85.4 KB.
+- `Lab Report #8, superpositio.docx` - File, 69.0 KB.
+- `Lab Report Experiment#3.docx` - File, 44.9 KB.
+- `Lab Report Experiment.docx` - File, 24.3 KB.
+- `Lab Report# 14, EET105.docx` - File, 21.4 KB.
+- `Lab Report#2 - EET-225.docx` - File, 157.9 KB.
+- `Lab#1- EET-225.docx` - File, 90.1 KB.
+- `Lab#1-311--from-repo-EET-311.docx` - File, 167.5 KB.
+- `Lab#1-311.docx` - File, 167.1 KB.
+- `Lab#1-EET-228.docx` - File, 200.7 KB.
+- `Lab#2-EET-228.docx` - File, 254.0 KB.
+- `lab#2-EET-317.docx` - File, 140.3 KB.
+- `Lab#3--from-repo-EET317Lab-2.docx` - File, 72.9 KB.
+- `lab#3-EET-228.docx` - File, 160.0 KB.
+- `Lab#3.docx` - File, 75.0 KB.
+- `Lab#4-228.vsd (2).docx` - File, 83.4 KB.
+- `Lab#4-228.vsd.docx` - File, 82.4 KB.
+- `lab#5-EET-317.docx` - File, 45.2 KB.
+- `Lab#5.docx` - File, 30.4 KB.
+- `Lab%20Report%20#4 and #3.docx` - File, 36.8 KB.
+- `Lab%20Report%20Experiment#2.docx` - File, 49.9 KB.
+- `Lab-5-228sheet.rtf` - File, 86.3 KB.
+- `lab-5-eet-228 (2).docx` - File, 122.8 KB.
+- `lab-5-eet-228.docx` - File, 116.2 KB.
+- `Lab-6-228.docx` - File, 3.7 MB.
+- `lab-8-eet-228.docx` - File, 163.9 KB.
+- `lab3-311.vsd` - File, 66.5 KB.
+- `LabNo4 (Repaired)--from-repo-EET-311.docx` - File, 215.6 KB.
+- `LabNo4 (Repaired).docx` - File, 215.8 KB.
+- `LabNo4.docx` - File, 71.3 KB.
+- `LabNo6--from-repo-EET-311.docx` - File, 138.6 KB.
+- `LabNo6.docx` - File, 161.1 KB.
+- `Labs 0,1,2,3 of EET-251.doc` - File, 66.3 MB.
+- `LabShee251.rtf` - File, 739.1 KB.
+- `One_shot_Prob_ANS.doc` - File, 87.0 KB.
+- `output-circuit#5.txt` - File, 7.0 KB.
+- `RC (Repaired).docx` - File, 47.1 KB.
+- `RC.docx` - File, 46.5 KB.
+- `SB.docx` - File, 334.0 KB.
+- `scan0001.docx` - File, 2.6 MB.
+- `Series Circuit.docx` - File, 32.0 KB.
+- `Take Home Exam (2).docx` - File, 260.0 KB.
+- `Take Home Exam--from-repo-EET-225.docx` - File, 260.1 KB.
+- `Take Home Exam.docx` - File, 259.9 KB.
+- `Test1_Solution.pdf` - File, 131.3 KB.
+- `Test2_solution (1).pdf` - File, 1.7 MB.
+- `Test2_solution.pdf` - File, 1.7 MB.
+- `VBE (Repaired).docx` - File, 34.2 KB.
+- `VBE.docx` - File, 34.2 KB.
+- `Vin.docx` - File, 53.7 KB.
+- `Waveform-lab15.jpg` - File, 45.1 KB.
+- `Will Brennan                                           eet317lab3                                                               10.doc` - File, 43.5 KB.
+- `~$periment#1-EET317.docx` - File, 162 B.
+- `~$T-331Lab#2.docx` - File, 162 B.

@@ -1,13 +1,309 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-eets`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+## Reports
 
-## Available Source Buckets
-
-- `reports/`: 193 file(s)
-
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `reports/14.txt`
+- `reports/317-LabNo.5 (2).docx`
+- `reports/317-LabNo.5.docx`
+- `reports/317LAB#3 (2).docx`
+- `reports/317LAB#3.docx`
+- `reports/317LAB#31.docx`
+- `reports/5th lab report-225.docx`
+- `reports/6th lab report-225.docx`
+- `reports/Book1 (Autosaved)2.xlsx`
+- `reports/Book1 (Autosaved)22.xlsx`
+- `reports/Book1.xlsx`
+- `reports/Book12.xlsx`
+- `reports/Book2.xlsx`
+- `reports/C++ Program Output.docx`
+- `reports/ch7_HW.pdf`
+- `reports/CH_7_HW_SOLUTION.pdf`
+- `reports/CIN.docx`
+- `reports/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- `reports/DC-EET-222-5.docx`
+- `reports/Doc1.docx`
+- `reports/EET - 223/Assignment#2.3.vsd`
+- `reports/EET - 223/Assignment#2.4.vsd`
+- `reports/EET - 223/Assignment#de.vsd`
+- `reports/EET - 223/Assignment#de2.vsd`
+- `reports/EET - 223/ch7_HW.pdf`
+- `reports/EET - 223/CH_7_HW_SOLUTION.pdf`
+- `reports/EET - 223/EET-223-LabExp4.cpp`
+- `reports/EET - 223/EET-223-LabExp4.sln`
+- `reports/EET - 223/EET-223-LabExp4.vcproj`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4.sln`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.cpp`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.vcproj`
+- `reports/EET - 223/EET-223.Lab Experiment#4.cpp`
+- `reports/EET - 223/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET - 223/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET - 223/EET-223LabExp.sln`
+- `reports/EET - 223/EET-223LabExp.vcproj`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp.sln`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.cpp`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.vcproj`
+- `reports/EET - 223/EET.docx`
+- `reports/EET - 223/eet223ab4.docx`
+- `reports/EET - 223/Electronics Laborator1.doc`
+- `reports/EET - 223/Exp#7-EET223 (2).docx`
+- `reports/EET - 223/Exp#7-EET223.docx`
+- `reports/EET - 223/lab 223-4 (2).vsd`
+- `reports/EET - 223/lab 223-4.vsd`
+- `reports/EET - 223/Lab Experiment#3.2.vsd`
+- `reports/EET - 223/Lab Experiment#3.vsd`
+- `reports/EET - 223/Lab Experiment-eet223#6.vsd`
+- `reports/EET - 223/lab#5 (2).vsd`
+- `reports/EET - 223/lab#5.2.vsd`
+- `reports/EET - 223/lab#5.vsd`
+- `reports/EET - 223/Lab.vsd`
+- `reports/EET - 223/Lab1.vsd`
+- `reports/EET - 223/Lab2.vsd`
+- `reports/EET - 223/One_shot_Prob_ANS.doc`
+- `reports/EET - 223/Test1_Solution.pdf`
+- `reports/EET - 223/Test2_solution (1).pdf`
+- `reports/EET - 223/Test2_solution.pdf`
+- `reports/EET - 223/~$T 105, Experiments #6 nd 7..docx`
+- `reports/EET - Stuffs/CIN.docx`
+- `reports/EET - Stuffs/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9 (Repaired).docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9.docx`
+- `reports/EET - Stuffs/EET 105, Experiments #6 nd 7..docx`
+- `reports/EET - Stuffs/Experiment # 6.docx`
+- `reports/EET - Stuffs/Experiment%20# 6.docx`
+- `reports/EET - Stuffs/Experiment%20# 7.docx`
+- `reports/EET - Stuffs/Experiment8.docx`
+- `reports/EET - Stuffs/Farmingdale  University of New York44 (2).docx`
+- `reports/EET - Stuffs/Farmingdale  University of New York44.docx`
+- `reports/EET - Stuffs/lab Report # 10.docx`
+- `reports/EET - Stuffs/Lab Report # 11 EET 105.docx`
+- `reports/EET - Stuffs/Lab Report #12.docx`
+- `reports/EET - Stuffs/Lab Report #4.docx`
+- `reports/EET - Stuffs/Lab Report #5.docx`
+- `reports/EET - Stuffs/Lab Report #8, superpositio.docx`
+- `reports/EET - Stuffs/Lab Report Experiment#3.docx`
+- `reports/EET - Stuffs/Lab Report Experiment.docx`
+- `reports/EET - Stuffs/Lab Report# 14, EET105.docx`
+- `reports/EET - Stuffs/Lab%20Report%20#4 and #3.docx`
+- `reports/EET - Stuffs/Lab%20Report%20Experiment#2.docx`
+- `reports/EET 105 lab 8 nd 9 (Repaired).docx`
+- `reports/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- `reports/EET 105 lab 8 nd 9.docx`
+- `reports/EET 105, Experiments #6 nd 7..docx`
+- `reports/EET-113 Theoretical Data.docx`
+- `reports/EET-113-5.docx`
+- `reports/EET-113-Lab-Report#2.docx`
+- `reports/EET-113/Doc1.docx`
+- `reports/EET-113/EET-113 Theoretical Data.docx`
+- `reports/EET-113/EET-113-5.docx`
+- `reports/EET-113/EET-113-Lab-Report#2.docx`
+- `reports/EET-113/Series Circuit.docx`
+- `reports/EET-117-Lab-Report.docx`
+- `reports/EET-117.docx`
+- `reports/EET-117/EET-117-Lab-Report.docx`
+- `reports/EET-117/EET-117.docx`
+- `reports/EET-117/EET117.docx`
+- `reports/EET-117/exp12.docx`
+- `reports/EET-117/Experiment#9-1rst Part.docx`
+- `reports/EET-117/Experiment#9-2nd Part.docx`
+- `reports/EET-117/RC (Repaired).docx`
+- `reports/EET-117/RC.docx`
+- `reports/EET-117/VBE (Repaired).docx`
+- `reports/EET-117/VBE.docx`
+- `reports/EET-117/~$E (Repaired).docx`
+- `reports/EET-222-5.docx`
+- `reports/EET-222.cpp#4.docx`
+- `reports/EET-222/DC-EET-222-5.docx`
+- `reports/EET-222/EET-222-5.docx`
+- `reports/EET-222/eet222ab2 (2).docx`
+- `reports/EET-222/eet222ab2.docx`
+- `reports/EET-222/Lab #4, EET-222.cpp`
+- `reports/EET-222/Lab Cover Shee1.docx`
+- `reports/EET-222/Lab Experiment #4/EET-222.cpp#4.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/C++ Program Output.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - C++  Source Code.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4print.txt`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/eet223ab4.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#2.jpg`
+- `reports/EET-222/Lab Experiment #4/Micro-Cap Evaluation 9.lnk- Output.jpg`
+- `reports/EET-222/Lab Experiment#12/Complete Waveform.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg- waveform.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg2.jpg`
+- `reports/EET-222/Lab Experiment#12/Untitled.jpg`
+- `reports/EET-222/output-circuit#5.txt`
+- `reports/EET-222/~$b Report #4 and #3.docx`
+- `reports/EET-223-LabExp4print.txt`
+- `reports/EET-225, Exp#8 (1).docx`
+- `reports/EET-225, Exp#8.docx`
+- `reports/EET-225/5th lab report-225.docx`
+- `reports/EET-225/6th lab report-225.docx`
+- `reports/EET-225/Bitmap Image in Drawing in 5th lab report-225.docx.vsd`
+- `reports/EET-225/EET-225, Exp#8 (1).docx`
+- `reports/EET-225/EET-225, Exp#8.docx`
+- `reports/EET-225/Formal-Lab-#3-eet-225.docx`
+- `reports/EET-225/Formal-Lab-#8eet-225.docx`
+- `reports/EET-225/fs.docx`
+- `reports/EET-225/Lab Report#2 - EET-225.docx`
+- `reports/EET-225/Lab#1- EET-225.docx`
+- `reports/EET-225/Lab#2-EET-225.vsd`
+- `reports/EET-225/LabShee251.rtf`
+- `reports/EET-225/SB.docx`
+- `reports/EET-225/scan0001.docx`
+- `reports/EET-225/Take Home Exam (2).docx`
+- `reports/EET-225/Take Home Exam.docx`
+- `reports/EET-225/~$rmal-Lab-#3-eet-225.docx`
+- `reports/EET-228/Drawing1-Lab#3-EET-228.vsd`
+- `reports/EET-228/Lab#1-EET-228.docx`
+- `reports/EET-228/Lab#2-EET-228.docx`
+- `reports/EET-228/lab#3-EET-228.docx`
+- `reports/EET-228/Lab#4-228.vsd`
+- `reports/EET-228/Lab#4-228.vsd (2).docx`
+- `reports/EET-228/Lab#4-228.vsd.docx`
+- `reports/EET-228/Lab-5-228sheet.rtf`
+- `reports/EET-228/lab-5-eet-228 (2).docx`
+- `reports/EET-228/lab-5-eet-228.docx`
+- `reports/EET-228/Lab-6-228.docx`
+- `reports/EET-228/lab-8-eet-228.docx`
+- `reports/EET-228/Vin.docx`
+- `reports/EET-228/~$b#1-EET-228.docx`
+- `reports/EET-228/~$b#3-EET-228.docx`
+- `reports/EET-228/~$b#4-228.vsd.docx`
+- `reports/EET-228/~$b-5-eet-228 (2).docx`
+- `reports/EET-251/Labs 0,1,2,3 of EET-251.doc`
+- `reports/EET-311/14.txt`
+- `reports/EET-311/EET-331Lab#2 (Repaired).docx`
+- `reports/EET-311/Lab#1-311.docx`
+- `reports/EET-311/LabNo4 (Repaired).docx`
+- `reports/EET-311/LabNo6.docx`
+- `reports/EET-311LabNo19.docx`
+- `reports/EET-311LabNo5.docx`
+- `reports/EET-317lab#2 (2).docx`
+- `reports/EET-317lab#2.docx`
+- `reports/EET-317LabNo4 (2).docx`
+- `reports/EET-317LabNo4.docx`
+- `reports/EET-317LabNo5.xlsx`
+- `reports/EET-317LabNo6.docx`
+- `reports/EET-331Lab#2 (Repaired)--from-repo-EET-311.docx`
+- `reports/EET-331Lab#2 (Repaired).docx`
+- `reports/EET-331Lab#2.docx`
+- `reports/EET-331Lab#2.dwing.vsd`
+- `reports/EET-440 Networking Course Summary.docx`
+- `reports/EET-440/EET-440 Networking Course Summary.docx`
+- `reports/EET-440/~$T-440 Networking Course Summary.docx`
+- `reports/EET.docx`
+- `reports/EET117.docx`
+- `reports/eet222ab2 (2).docx`
+- `reports/eet222ab2.docx`
+- `reports/eet223ab4--from-Lab-Experiment-4-Lab-4.docx`
+- `reports/eet223ab4.docx`
+- `reports/EET317Lab#2/317-LabNo.5 (2).docx`
+- `reports/EET317Lab#2/317-LabNo.5.docx`
+- `reports/EET317Lab#2/317LAB#3 (2).docx`
+- `reports/EET317Lab#2/317LAB#3.docx`
+- `reports/EET317Lab#2/317LAB#31.docx`
+- `reports/EET317Lab#2/EET-317lab#2 (2).docx`
+- `reports/EET317Lab#2/EET-317lab#2.docx`
+- `reports/EET317Lab#2/EET-317LabNo4 (2).docx`
+- `reports/EET317Lab#2/EET-317LabNo4.docx`
+- `reports/EET317Lab#2/EET-317LabNo5.xlsx`
+- `reports/EET317Lab#2/EET-317LabNo6.docx`
+- `reports/EET317Lab#2/Experiment#1-EET317 (Repaired) (2).docx`
+- `reports/EET317Lab#2/Experiment#1-EET317 (Repaired).docx`
+- `reports/EET317Lab#2/Experiment#1-EET317.docx`
+- `reports/EET317Lab#2/lab#2-EET-317.docx`
+- `reports/EET317Lab#2/Lab#3.docx`
+- `reports/EET317Lab#2/lab#5-EET-317.docx`
+- `reports/EET317Lab#2/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/Electronics Laborator1.doc`
+- `reports/Exp#7-EET223 (2).docx`
+- `reports/Exp#7-EET223.docx`
+- `reports/exp12.docx`
+- `reports/Experiment # 6.docx`
+- `reports/Experiment#1-EET317 (Repaired) (2).docx`
+- `reports/Experiment#1-EET317 (Repaired).docx`
+- `reports/Experiment#1-EET317.docx`
+- `reports/Experiment#9-1rst Part.docx`
+- `reports/Experiment#9-2nd Part.docx`
+- `reports/Experiment%20# 6.docx`
+- `reports/Experiment%20# 7.docx`
+- `reports/Experiment8.docx`
+- `reports/Farmingdale  University of New York44 (2).docx`
+- `reports/Farmingdale  University of New York44.docx`
+- `reports/Formal-Lab-#3-eet-225.docx`
+- `reports/Formal-Lab-#8eet-225.docx`
+- `reports/fs.docx`
+- `reports/How_to_run_Microsoft_CLR_Protocol.doc`
+- `reports/Lab Cover Shee1.docx`
+- `reports/lab Report # 10.docx`
+- `reports/Lab Report # 11 EET 105.docx`
+- `reports/Lab Report #12.docx`
+- `reports/Lab Report #4.docx`
+- `reports/Lab Report #5.docx`
+- `reports/Lab Report #8, superpositio.docx`
+- `reports/Lab Report Experiment#3.docx`
+- `reports/Lab Report Experiment.docx`
+- `reports/Lab Report# 14, EET105.docx`
+- `reports/Lab Report#2 - EET-225.docx`
+- `reports/Lab#1- EET-225.docx`
+- `reports/Lab#1-311--from-repo-EET-311.docx`
+- `reports/Lab#1-311.docx`
+- `reports/Lab#1-EET-228.docx`
+- `reports/Lab#2-EET-228.docx`
+- `reports/lab#2-EET-317.docx`
+- `reports/Lab#3--from-repo-EET317Lab-2.docx`
+- `reports/lab#3-EET-228.docx`
+- `reports/Lab#3.docx`
+- `reports/Lab#4-228.vsd (2).docx`
+- `reports/Lab#4-228.vsd.docx`
+- `reports/lab#5-EET-317.docx`
+- `reports/Lab#5.docx`
+- `reports/Lab%20Report%20#4 and #3.docx`
+- `reports/Lab%20Report%20Experiment#2.docx`
+- `reports/Lab-5-228sheet.rtf`
+- `reports/lab-5-eet-228 (2).docx`
+- `reports/lab-5-eet-228.docx`
+- `reports/Lab-6-228.docx`
+- `reports/lab-8-eet-228.docx`
+- `reports/lab3-311.vsd`
+- `reports/LabNo4 (Repaired)--from-repo-EET-311.docx`
+- `reports/LabNo4 (Repaired).docx`
+- `reports/LabNo4.docx`
+- `reports/LabNo6--from-repo-EET-311.docx`
+- `reports/LabNo6.docx`
+- `reports/Labs 0,1,2,3 of EET-251.doc`
+- `reports/LabShee251.rtf`
+- `reports/One_shot_Prob_ANS.doc`
+- `reports/output-circuit#5.txt`
+- `reports/RC (Repaired).docx`
+- `reports/RC.docx`
+- `reports/SB.docx`
+- `reports/scan0001.docx`
+- `reports/Series Circuit.docx`
+- `reports/Take Home Exam (2).docx`
+- `reports/Take Home Exam--from-repo-EET-225.docx`
+- `reports/Take Home Exam.docx`
+- `reports/Test1_Solution.pdf`
+- `reports/Test2_solution (1).pdf`
+- `reports/Test2_solution.pdf`
+- `reports/VBE (Repaired).docx`
+- `reports/VBE.docx`
+- `reports/Vin.docx`
+- `reports/Waveform-lab15.jpg`
+- `reports/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/~$periment#1-EET317.docx`
+- `reports/~$T-331Lab#2.docx`
