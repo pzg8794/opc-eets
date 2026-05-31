@@ -1,0 +1,126 @@
+# Drive Overview
+
+Source: https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+
+Showing up to 120 entries from max depth 2. Total listed at that depth: 456.
+
+- `12JOB1/`
+- `Backup of Backup of How_to_run_Microsoft_CLR_Protocol.wbk`
+- `Backup of How_to_run_Microsoft_CLR_Protocol.wbk`
+- `Backup of Lab#1-311.wbk`
+- `Backup of Lab#3.wbk`
+- `Backup of LabNo4 (Repaired).wbk`
+- `Backup of LabNo6.wbk`
+- `Book1 (Autosaved)2.xlsx`
+- `Book1 (Autosaved)22.xlsx`
+- `Book1.xlsx`
+- `Book12.xlsx`
+- `Book2.xlsx`
+- `Drawing1.vsd`
+- `EET - 223/`
+- `EET - Stuffs/`
+- `EET-113/`
+- `EET-117/`
+- `EET-222/`
+- `EET-225/`
+- `EET-228/`
+- `EET-251/`
+- `EET-311/`
+- `EET-311LabNo19.docx`
+- `EET-311LabNo5.docx`
+- `EET-316Labs/`
+- `EET-331Lab#2 (Repaired).docx`
+- `EET-331Lab#2.docx`
+- `EET-331Lab#2.dwing.vsd`
+- `EET-440/`
+- `EET317Lab#2/`
+- `How_to_run_Microsoft_CLR_Protocol.doc`
+- `Lab#1-311.docx`
+- `Lab#3.docx`
+- `Lab#5.docx`
+- `LabNo4 (Repaired).docx`
+- `LabNo4.docx`
+- `LabNo6.docx`
+- `Take Home Exam.docx`
+- `Untitled.jpg`
+- `Untitled1.jpg`
+- `Untitled2.jpg`
+- `Waveform-lab15.jpg`
+- `images.jpg`
+- `img58.gif`
+- `img62.gif`
+- `img63.gif`
+- `lab3-311.vsd`
+- `~$T-331Lab#2.docx`
+- `~$periment#1-EET317.docx`
+- `EET-113/100_1830.JPG`
+- `EET-113/100_1832.JPG`
+- `EET-113/Backup of EET-113-5.wbk`
+- `EET-113/Backup of EET-113-No3.wbk`
+- `EET-113/Backup of Series Circuit.wbk`
+- `EET-113/Doc1.docx`
+- `EET-113/EET-113 Backup of Theoretical Data.wbk`
+- `EET-113/EET-113 Theoretical Data.docx`
+- `EET-113/EET-113-5.docx`
+- `EET-113/EET-113-Lab-Report#2.docx`
+- `EET-113/Series Circuit.docx`
+- `EET-117/400px-Resistor_with_v-i_graph.svg.png`
+- `EET-117/Backup of EET-117-Lab-Report.wbk`
+- `EET-117/Backup of EET117.wbk`
+- `EET-117/Backup of Experiment#9-2nd Part.wbk`
+- `EET-117/Backup of RC (Repaired).wbk`
+- `EET-117/Backup of RC.wbk`
+- `EET-117/Backup of VBE.wbk`
+- `EET-117/Backup of exp12.wbk`
+- `EET-117/EET-117 (2).wbk`
+- `EET-117/EET-117-Lab-Report.docx`
+- `EET-117/EET-117.docx`
+- `EET-117/EET-117.wbk`
+- `EET-117/EET117.docx`
+- `EET-117/Exp4.jpg`
+- `EET-117/Experiment#9-1rst Part.docx`
+- `EET-117/Experiment#9-2nd Part.docx`
+- `EET-117/Pract4.jpg`
+- `EET-117/RC (Repaired).docx`
+- `EET-117/RC.docx`
+- `EET-117/Suppement#21.jpg`
+- `EET-117/Supplement#20.jpg`
+- `EET-117/VBE (Repaired).docx`
+- `EET-117/VBE.docx`
+- `EET-117/exp12.docx`
+- `EET-117/ps_sine_unrect.gif`
+- `EET-117/rectifier_bridge.gif`
+- `EET-117/rectifier_full_wave.gif`
+- `EET-117/sinewave_circuit.png`
+- `EET-117/~$E (Repaired).docx`
+- `EET-311/12Job14.e`
+- `EET-311/14.txt`
+- `EET-311/311EETLAB1.1 (2).CIR`
+- `EET-311/311EETLAB1.1.CIR`
+- `EET-311/311EETLAB1.1.out`
+- `EET-311/311EETLAB1.CIR`
+- `EET-311/311EETLAB1.out`
+- `EET-311/EET-331Lab#2 (Repaired).docx`
+- `EET-311/EET-LAB2.2`
+- `EET-311/EET-LAB2.CIR`
+- `EET-311/EET-LAB2.out`
+- `EET-311/EET331Lab1_3.CIR`
+- `EET-311/EET331Lab1_3.out`
+- `EET-311/EET331Lab3.1.CIR`
+- `EET-311/EET331Lab3.1.out`
+- `EET-311/EET331Lab3.1C.out`
+- `EET-311/EET331Lab3.2`
+- `EET-311/Lab#1-311.docx`
+- `EET-311/LabNo4 (Repaired).docx`
+- `EET-311/LabNo4A.CIR`
+- `EET-311/LabNo4A.out`
+- `EET-311/LabNo4B.CIR`
+- `EET-311/LabNo4B.out`
+- `EET-311/LabNo4C.CIR`
+- `EET-311/LabNo4C.out`
+- `EET-311/LabNo6.docx`
+- `EET-311/New Folder/`
+- `EET-311/TEMPLATE.E`
+- `EET-316Labs/12JJOB4.ZIP`
+- `EET-316Labs/12JOB1.ZIP`
+- `EET-316Labs/12JOB10.ZIP`
