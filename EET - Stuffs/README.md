@@ -4,19 +4,10 @@ Path: `EET - Stuffs`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `CIN.docx` (file)
-- `DC Operating Characteristics De Solid State Diodes-EET117.docx` (file)
-- `EET 105, Experiments #6 nd 7..docx` (file)
-- `Experiment # 6.docx` (file)
-- `Experiment%20# 6.docx` (file)
-- `Experiment%20# 7.docx` (file)
-- `Experiment8.docx` (file)
-- `Farmingdale  University of New York44 (2).docx` (file)
-- `Farmingdale  University of New York44.docx` (file)
 - `img023.jpg` (file)
 - `img024.jpg` (file)
 - `img025.jpg` (file)
@@ -27,4 +18,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

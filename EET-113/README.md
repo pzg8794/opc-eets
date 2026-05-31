@@ -4,15 +4,13 @@ Path: `EET-113`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Doc1.docx` (file)
-- `EET-113 Theoretical Data.docx` (file)
-- `EET-113-5.docx` (file)
-- `Series Circuit.docx` (file)
+- `100_1830.JPG` (file)
+- `100_1832.JPG` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -2,16 +2,15 @@
 
 Drive source: https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
 
-Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
+Purpose: cleaned old Portafolio repository. Simple source, paper, report, presentation, and documentation files are stored in GitHub; heavy videos, installers, archives, and raw data stay in Drive.
 
-## Main Directories
+## Document Areas
 
-- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
-- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
-- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+- [`reports/`](./reports/README.md) - Reports, labs, assignments, notes, manuals, and documentation.
 
 ## Top-Level Items
 
+- `12JOB1/` (folder)
 - `EET - 223/` (folder)
 - `EET - Stuffs/` (folder)
 - `EET-113/` (folder)
@@ -20,37 +19,21 @@ Purpose: cleaned old Portafolio repository with documents separated for future r
 - `EET-225/` (folder)
 - `EET-228/` (folder)
 - `EET-251/` (folder)
-- `EET-311/` (folder)
 - `EET-440/` (folder)
-- `EET317Lab#2/` (folder)
-- `papers/` (folder)
-- `presentations/` (folder)
 - `reports/` (folder)
 - `.gitignore` (file)
-- `Book1 (Autosaved)2.xlsx` (file)
-- `Book1 (Autosaved)22.xlsx` (file)
-- `Book1.xlsx` (file)
-- `Book12.xlsx` (file)
-- `Book2.xlsx` (file)
 - `Drawing1.vsd` (file)
 - `DRIVE_OVERVIEW.md` (file)
-- `EET-331Lab#2.dwing.vsd` (file)
-- `How_to_run_Microsoft_CLR_Protocol.doc` (file)
 - `images.jpg` (file)
 - `img58.gif` (file)
 - `img62.gif` (file)
 - `img63.gif` (file)
 - `IMPORT_NOTES.md` (file)
-- `lab3-311.vsd` (file)
-- `Take Home Exam.docx` (file)
+- `OVERLEAF_PREP.md` (file)
 - `Untitled.jpg` (file)
 - `Untitled1.jpg` (file)
 - `Untitled2.jpg` (file)
-- `Waveform-lab15.jpg` (file)
-- `~$periment#1-EET317.docx` (file)
 
-## Organization Notes
+## Drive-Only Policy
 
-- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
-- Each included directory has a `README.md` index.
-- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
+Videos, installers, compressed archives, raw data/binaries, and files too large for GitHub are referenced in `DRIVE_ONLY.md` or `IMPORT_NOTES.md` instead of being committed.
